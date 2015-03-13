@@ -1,5 +1,5 @@
 # BESign
-Batch signing PDF documents with a Belgian Electronic id cart.
+Batch signing PDF documents with a Belgian Electronic id card.
 
 This is a Proof Of Concept not useful in any sense. [iText](http://itextpdf.com) is dual licensed and if you should decide to use BESign then 
 please consider buying an iText license(I have no gain in this, btw). You can do whatever you wish with the rest of the code.
